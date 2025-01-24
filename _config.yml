@@ -6,7 +6,7 @@ email: monicaz0219@qq.com
 description: 
 keyword: 
 url: "https://moira233.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://moira233.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
 
 # Sidebar settings
